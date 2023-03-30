@@ -1,2 +1,2 @@
 here is the deployed link
-https://64244e5db1250400783e6af4--jovial-peony-9bb992.netlify.app/
+https://bmi-calculator-shoyeb.netlify.app/
